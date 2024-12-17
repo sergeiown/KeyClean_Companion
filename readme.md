@@ -33,7 +33,7 @@ KeyClean Companion is an interactive web-based utility designed to make the proc
 
 ## Screenshots
 Add screenshots of the app in action here (optional). Example:
-![image](https://github.com/user-attachments/assets/183c85be-943b-40b9-808b-674b1d2cbbf2)
+![image](https://github.com/user-attachments/assets/0027d4bb-0189-41ea-8cd9-d2a66bb7b1fd)
 
 ---
 
