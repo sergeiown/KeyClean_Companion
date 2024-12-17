@@ -32,14 +32,12 @@ KeyClean Companion is an interactive web-based utility designed to make the proc
 ---
 
 ## Screenshots
-Add screenshots of the app in action here (optional). Example:
 ![image](https://github.com/user-attachments/assets/0027d4bb-0189-41ea-8cd9-d2a66bb7b1fd)
 
 ---
 
 ## Contribution
 Contributions are welcome! Feel free to submit issues or pull requests. For major changes, please open an issue first to discuss what you'd like to change.
-
 
 ---
 
