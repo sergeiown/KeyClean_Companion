@@ -17,7 +17,7 @@ KeyClean Companion is an interactive web-based utility designed to make the proc
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/sergeiown/KeyClean_Companion
-   cd keyclean-companion
+   cd keyclean_companion
 2. Open the `index.html` file in your browser to start using the application.
 
 ---
