@@ -1,4 +1,5 @@
 # KeyClean Companion
+![image](https://github.com/user-attachments/assets/7a61d0f8-d4f3-4f38-a116-1d7a4dfa613e)
 
 KeyClean Companion is an interactive web-based utility designed to make the process of cleaning your mechanical keyboard fun and efficient. By tracking key presses and visualizing them on-screen, it ensures no key goes unnoticed during your cleaning routine.
 
